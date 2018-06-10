@@ -1,0 +1,44 @@
+/* CSS Document */
+
+
+h1
+{
+background-color: transparent;
+font-family: "Times New Roman", Times, serif;
+font-size: 40px;
+
+}
+#submit
+{
+
+    background:linear-gradient(0deg,green,white);
+    color: black;
+     padding: 10px 60px;
+
+}
+/*#buttons
+{
+	 background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}*/
+#loru
+{
+	background:linear-gradient(0deg,red,white);
+    color: black;
+     padding: 10px 60px;
+
+}
+
+#back
+{
+	background-image: url("bg.png");
+    font-size: large;
+    
+}
+
